@@ -1,0 +1,84 @@
+div#drafter_tools{
+	min-height: 22px;
+	width: 100%;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	background: #E8E8E8;
+	border-bottom: 1px solid #999;
+	padding: 3px;
+	z-index: 100000;
+}
+
+div#drafter_tools a{
+	color: #7C7C7C;
+	text-decoration: none;
+	border-right: 1px solid #606060;
+	padding-right: 30px;
+	font-weight: bold;
+}
+
+div#drafter_tools a:hover{
+	color: #000;
+	font-weight: bold;
+}
+
+div.selected_elem{
+	border: 1px dashed #ccc;
+}
+div#drafter_settings{
+	min-height: 150px;
+	width: 300px;
+	position: fixed;
+	right: 0;
+	top: 110px;
+	background: #E8E8E8;
+	border: 1px solid #999;
+	border-right: 0;
+	padding: 3px;
+	z-index: 100000;
+}
+div#drafter_html{
+	min-height: 150px;
+	width: 300px;
+	position: fixed;
+	right: 0;
+	top: 110px;
+	background: #E8E8E8;
+	border: 1px solid #999;
+	border-right: 0;
+	padding: 3px;
+	z-index: 100000;
+}
+#css_data_arc{
+	width:287px;
+}
+#html_data_arc{
+	width:287px;
+}
+div#drafter_style{
+	min-height: 150px;
+	width: 300px;
+	position: fixed;
+	right: 0;
+	top: 110px;
+	background: #E8E8E8;
+	border: 1px solid #999;
+	border-right: 0;
+	padding: 3px;
+	z-index: 100000;
+}
+div.script_slider{
+	background: url('slider.png');
+	height: 9px;
+	width: 200px;
+}
+div.script_slider div{
+	background: url('handle.png');
+	width: 19px;
+	cursor: move;
+	height: 20px;
+}
+div#drafter_tools a{
+	margin: 10px;
+}
