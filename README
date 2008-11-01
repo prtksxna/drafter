@@ -1,3 +1,5 @@
 A JS tool that allows you to build templates with a GUI (currently using the Blueprint CSS framework).
 
-Documentation and Help coming soon!
+Use the buttons on top to add div or spaces, use the settings, css and html buttons to change the style, size and content of the divs. Double click to select.
+
+Development on new version in progress
